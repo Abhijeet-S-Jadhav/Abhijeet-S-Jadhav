@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://drive.google.com/file/d/12PIoaWo1M8IXkOJDCwZjtb9bEn8X1eSO/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Abhijeet Jadhav</h1>
 <h3 align="center">A passionate AI/ML Developer from Pune, India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/geometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-s-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-s-jadhav" /> </p>
 
