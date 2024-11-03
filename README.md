@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://drive.google.com/file/d/12PIoaWo1M8IXkOJDCwZjtb9bEn8X1eSO/view?usp=sharing)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
 <h1 align="center">Hi 👋, I'm Abhijeet Jadhav</h1>
 <h3 align="center">A passionate AI/ML Developer from Pune, India</h3>
 <img align="justify" alt="Coding" width="200" src="https://camo.githubusercontent.com/4f152e04118f7f41ba38aead4189ea5e7b68285113da4e0f849c0148b15546ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c50387875357432444c47473034354838462f67697068792e676966">
