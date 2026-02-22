@@ -110,18 +110,16 @@ class AbhijeetEngineer:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhijeet-s-jadhav">
+  <a href="https://www.linkedin.com/in/abhijeet-s-jadhav/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhijeet.jadhav1805@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/abhijeet_s_jadhav">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://x.com/jadhav_abhi04">
+    <img src="https://img.shields.io/badge/X-FFA116?style=for-the-badge&logo=X&logoColor=black" alt="X"/>
   </a>
-  <a href="https://codeforces.com/profile/abhijeetj">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
+  
 </p>
 
 ---
@@ -133,7 +131,8 @@ Type: Full-time | Internships
 Available: Post-Graduation (2026)
 Location: India (Open to relocation)
 Ideal Focus Areas: 
-  - AI Security & Threat Detection
+  - AI/ML Engineer
+  - Cyber Security & Threat Detection
   - Computer Vision & Robotics
   - Applied Generative AI (RAG, LLMs)
   - Full-Stack Development
