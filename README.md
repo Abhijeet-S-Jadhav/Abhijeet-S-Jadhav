@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4f152e04118f7f41ba38aead4189ea5e7b68285113da4e0f849c0148b15546ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c50387875357432444c47473034354838462f67697068792e676966" alt="Coding Animation" width="250"/> 
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="300"/> 
 </p>
 
 <p align="center">
