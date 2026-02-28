@@ -18,26 +18,24 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Work
 
-### **Security & Vulnerability Systems**
+### **Smart Automation using AI/ML**
 
-**[Centralized Vulnerability Detection & Query Interface](https://github.com/Abhijeet-S-Jadhav)** | React.js, Python, Mistral-7B, FAISS
+**[Centralized Vulnerability Detection & Query Interface](https://github.com/Abhijeet-S-Jadhav/Centralized-Scan-Dashboard)** | React.js, Python, Mistral-7B, FAISS
 - Distributed backend orchestrating 8+ ethical hacking recon tools (Nmap, Nuclei) on a remote Kali instance via SSH
 - RAG pipeline utilizing LangChain, FAISS, and a QLoRA fine-tuned Mistral-7B model to generate contextual PoC commands
 - Real-time React dashboard and Streamlit-based "Intelligent Query Interface" for conversational vulnerability analysis
 
-**[Agent-less Windows Vulnerability Scanner](https://github.com/Abhijeet-S-Jadhav)** | Python, PowerShell, Scapy
+**[Agent-less Windows Vulnerability Scanner](https://github.com/Abhijeet-S-Jadhav/Agent-less-Windows-System-Vulnerability-and-Network-Scanner)** | Python, PowerShell, Scapy
 - Automated PowerShell tool scanning OS, security, and network configurations using ARP, RDP, and LLDP protocols
 - Integrated exploitDB, WinPEAS, and Posh-SecMod to assess vulnerabilities and recommend security patches
 - Streamlined analysis through automated HTML reports and visual network topology diagrams
 
-### **Computer Vision & AI**
-
-**[Autonomous Vision Systems @ MUKS Robotics](https://github.com/Abhijeet-S-Jadhav)** | OpenCV, YOLOv8, ROS
+**[Agentic AI-Based Requirement Gathering System](https://github.com/Abhijeet-S-Jadhav/agentic-requirement-ai)** | OpenCV, YOLOv8, ROS
 - Fine-tuned YOLOv8 object detection models improving mAP by 10–15%
 - Developed facial recognition algorithms using Vision Master, boosting accuracy by 25% (achieving 90% overall)
 - Integrated 2D LiDAR sensors with ROS (Hector SLAM & G-SLAM) to enhance AGV navigation and localization by 15%
 
-**[Dark Pattern Detection Web Extension](https://github.com/Abhijeet-S-Jadhav)** | JavaScript, RoBERTa, BeautifulSoup
+**[Dark Pattern Detection Web Extension](https://github.com/Abhijeet-S-Jadhav/Dark-Pattern-Detector-DigiCom-)** | JavaScript, RoBERTa, BeautifulSoup
 - Browser extension detecting deceptive e-commerce patterns via semi-supervised RoBERTa-based classification
 - Engineered structured JSON pipelines for real-time communication between UI scripts and Python detection models
 
@@ -57,7 +55,7 @@
 
 **Professional Experience:**
 - **AI Security Research Intern** @ Prime Minister's Office (NTRO), Govt. of India (June - Aug 2025)
-  - *Classified Project:* Work conducted under the authority of the National Technical Research Organisation (NTRO).
+  - *Classified Project:* Work conducted under the authority of the NTRO, PMO, Government of India.
 - **AI/ML Intern** @ MUKS Robotics (June - July 2024)
   - *Focus:* Computer Vision (YOLOv8, OpenCV), Sensor Fusion (FastAPI/Flask RESTful APIs), and AGV SLAM navigation.
 
