@@ -98,7 +98,6 @@ class AbhijeetEngineer:
 
 **Current Focus:**
 - **Generative AI**: Scaling RAG Chatbots and building highly contextual LLM wrappers.
-- **Web3 / Blockchain**: Developing a blockchain-based job marketplace connecting freelancers with clients directly via smart contracts.
 - **Cybersecurity**: Automated threat intelligence and network topology mapping.
 
 <p align="center">
@@ -116,6 +115,9 @@ class AbhijeetEngineer:
   </a>
   <a href="https://x.com/jadhav_abhi04">
     <img src="https://img.shields.io/badge/X-FFA116?style=for-the-badge&logo=X&logoColor=black" alt="X"/>
+  </a>
+  <a href="https://abhijeet-jadhav.in/">
+    <img src="https://img.shields.io/badge/Website-0077CC?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website"/>
   </a>
   
 </p>
