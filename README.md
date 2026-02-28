@@ -30,10 +30,10 @@
 - Integrated exploitDB, WinPEAS, and Posh-SecMod to assess vulnerabilities and recommend security patches
 - Streamlined analysis through automated HTML reports and visual network topology diagrams
 
-**[Agentic AI-Based Requirement Gathering System](https://github.com/Abhijeet-S-Jadhav/agentic-requirement-ai)** | OpenCV, YOLOv8, ROS
-- Fine-tuned YOLOv8 object detection models improving mAP by 10–15%
-- Developed facial recognition algorithms using Vision Master, boosting accuracy by 25% (achieving 90% overall)
-- Integrated 2D LiDAR sensors with ROS (Hector SLAM & G-SLAM) to enhance AGV navigation and localization by 15%
+**[Agentic AI-Based Requirement Gathering System](https://github.com/Abhijeet-S-Jadhav/agentic-requirement-ai)** | LangChain, Whisper, Llama 3.3
+- Built an Agentic AI system that converts client audio requirements into structured technical documentation using Whisper (ASR) and Llama 3.3 via Groq.
+- Designed a 5-agent LLM pipeline for requirement extraction, ambiguity detection, gap analysis, and automated architecture blueprint generation (DOT/Graphviz).
+- Developed an end-to-end workflow with Streamlit, LangChain, and FPDF to generate reproducible, structured PDF specifications from unstructured audio inputs.
 
 **[Dark Pattern Detection Web Extension](https://github.com/Abhijeet-S-Jadhav/Dark-Pattern-Detector-DigiCom-)** | JavaScript, RoBERTa, BeautifulSoup
 - Browser extension detecting deceptive e-commerce patterns via semi-supervised RoBERTa-based classification
